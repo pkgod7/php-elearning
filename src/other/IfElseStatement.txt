@@ -1,0 +1,1 @@
+Sometimes when the condition in an if statement evaluates to false, it would be nice to execute some code instead of the code executed when the statement evaluates to true. The else statement effectively says that whatever code after it (whether a single line or code between brackets) is executed if the if statement is FALSE. 
